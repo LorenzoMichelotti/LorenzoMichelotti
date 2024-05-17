@@ -1,5 +1,6 @@
 ### Hiii 👋
 🌱 I’m currently studying Software Engineering 
+
 💕 I love React and dotnet c#!
 <!--
 **LorenzoMichelotti/LorenzoMichelotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
