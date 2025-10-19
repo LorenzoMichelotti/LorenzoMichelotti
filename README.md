@@ -1,7 +1,6 @@
 ### Hiii 👋
 🌱 I’m a Software Engineering Grad Student 
-🔭 Currently working on a game using Godot and Gdscript
-💕 I love React and .NET
+💕 I love WebDev and GameDev
 <!--
 **LorenzoMichelotti/LorenzoMichelotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
